@@ -1,0 +1,4 @@
+<?php
+
+$csvFilePath = '../paris.csv';
+
