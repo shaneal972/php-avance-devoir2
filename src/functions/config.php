@@ -1,6 +1,6 @@
 <?php 
 
 $host = 'localhost';
-$dbname = 'php-avance-2';
+$dbname = 'php_avance_2';
 $user = 'root';
 $password = '';
